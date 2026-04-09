@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Z Shield",
+    "slug": "z-shield",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.zshield.app",
+      "permissions": [
+        "ACCESS_COARSE_LOCATION",
+        "ACCESS_FINE_LOCATION"
+      ]
+    },
+    "extra": {
+      "appName": "Z Shield"
+    }
+  }
+}
